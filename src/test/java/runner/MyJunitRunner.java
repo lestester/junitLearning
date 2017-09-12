@@ -7,6 +7,8 @@ import org.junit.runners.model.Statement;
 
 /**
  * 方法拦截 实现一些log 或者其他的事情
+ * 参考链接:https://unmi.cc/extend-junit-4-customized-runner/
+ *
  */
 
 public class MyJunitRunner extends BlockJUnit4ClassRunner {
