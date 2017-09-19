@@ -1,0 +1,3 @@
+<services>
+    <http id="service-test" url="http://www.baidu.com" method="get" desc="just a  test" />
+</services>
